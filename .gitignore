@@ -34,3 +34,6 @@ build/
 
 ### Deploy files ###
 *.bat
+
+### Data files ###
+*.db
